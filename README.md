@@ -316,7 +316,7 @@
 # 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nikhiljainnnn&theme=tokyo-night&hide_border=true&area=true&custom_title=Nikhil%27s%20Contribution%20Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nikhhiilsingghvi&theme=tokyo-night&hide_border=true&area=true&custom_title=Nikhil%27s%20Contribution%20Graph"/>
 </p>
 
 ---

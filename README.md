@@ -17,11 +17,6 @@
   Option B (Custom photo):       Upload your photo — steps at the bottom of this file.
   The SVG below works immediately with Option A.
 -->
-
-<p align="center">
-  <img src="https://github.com/nikhhiilsingghvi.png" width="150" style="border-radius:50%"/>
-</p>
-
 <!--
   OPTION B — Custom photo with gradient ring (trending viral format):
   MANUAL STEPS (only needed if you want a different photo than your GitHub avatar):

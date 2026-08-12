@@ -19,7 +19,7 @@
 -->
 
 <p align="center">
-  <img src="https://github.com/nikhiljainnnn.png" width="150" style="border-radius:50%"/>
+  <img src="https://github.com/nikhhiilsingghvi.png" width="150" style="border-radius:50%"/>
 </p>
 
 <!--

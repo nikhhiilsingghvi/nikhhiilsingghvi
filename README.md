@@ -349,11 +349,9 @@
 </a>
 
 <a href="https://nikhilsinghvi.netlify.app">
-<img width="120" height="28" alt="Portfolio" src="https://github.com/user-attachments/assets/bcc0b348-4232-420b-9eb4-474e8d73792f"/>
+<img width="120" height="28" alt="Portfolio" src="https://img.shields.io/badge/PORTFOLIO-6E40C9?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
-
 </p>
-
 ---
 
 # 💡 Fun Facts

@@ -183,7 +183,7 @@
 
 ✨ **Key Features:** 7-Agent architecture · Real GitHub PR integration · Celery distributed tasks · k3d Kubernetes · React monitoring dashboard · Autonomous dev pipeline
 
-🔗 **GitHub:** [PhantomDev](https://github.com/nikhiljainnnn/PhantomDev)
+🔗 **GitHub:** [PhantomDev](https://github.com/nikhhiilsingghvi/PhantomDev)
 
 ---
 
@@ -201,7 +201,7 @@
 
 ✨ **Key Features:** Multi-Agent LangGraph workflows · Long-term memory · Tool calling · Code generation · Automated testing · GitHub integration
 
-🔗 **GitHub:** [AgentOS](https://github.com/nikhiljainnnn/agentos)
+🔗 **GitHub:** [AgentOS](https://github.com/nikhhiilsingghvi/agentos)
 
 ---
 
@@ -295,7 +295,7 @@
 
 <p align="center">
 <img height="195" src="https://github-readme-streak-stats.herokuapp.com?user=nikhiljainnnn&theme=tokyonight&hide_border=true"/>
-<img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhiljainnnn&layout=compact&theme=tokyonight&hide_border=true&langs_count=10"/>
+<img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhhiilsingghvi&layout=compact&theme=tokyonight&hide_border=true&langs_count=10"/>
 </p>
 
 <p align="center">
@@ -303,7 +303,7 @@
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhiljainnnn&layout=compact&theme=tokyonight&hide_border=true&langs_count=10"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhhiilsingghvi&layout=compact&theme=tokyonight&hide_border=true&langs_count=10"/>
 </p>
 
 ---
@@ -319,7 +319,7 @@
 # 🏅 GitHub Trophies
 
 <p align="center">
-<img src="https://github-trophies.vercel.app/?username=nikhiljainnnn&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true"/>
+<img src="https://github-trophies.vercel.app/?username=nikhhiilsingghvi&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true"/>
 </p>
 
 ---
@@ -327,7 +327,7 @@
 # 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/nikhiljainnnn/nikhiljainnnn/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/nikhhiilsingghvi/nikhhiilsingghvi/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
@@ -344,7 +344,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/nikhiljainnnn">
+<a href="https://github.com/nikhhiilsingghvi">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 

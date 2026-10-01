@@ -294,7 +294,7 @@
 # 📊 GitHub Analytics
 
 <p align="center">
-<img height="195" src="https://github-readme-streak-stats.herokuapp.com?user=nikhiljainnnn&theme=tokyonight&hide_border=true"/>
+<img height="195" src="https://github-readme-streak-stats.herokuapp.com?user=nikhhiilsingghvi&theme=tokyonight&hide_border=true"/>
 <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhhiilsingghvi&layout=compact&theme=tokyonight&hide_border=true&langs_count=10"/>
 </p>
 
